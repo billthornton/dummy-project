@@ -1,6 +1,6 @@
 # dummy-project
 
-Added some text. This is some more text
+Added some text. This is some more text. Some more text.
 
 * one
 * 2
