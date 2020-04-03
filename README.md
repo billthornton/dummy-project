@@ -7,7 +7,7 @@ Added some text
 * three
 * four
 * five
-* six
+* 6
 * seven
 * eight
 * nine
