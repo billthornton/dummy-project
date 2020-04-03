@@ -9,7 +9,7 @@ Added some text
 * five
 * six
 * seven
-* eight
+* 8
 * nine
 * ten
 * eleven
