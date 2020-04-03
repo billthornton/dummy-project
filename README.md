@@ -19,6 +19,6 @@ Added some text
 * fifteen
 * 16
 * seventeen
-* eighteen
+* 18
 * nineteen
 * twenty
