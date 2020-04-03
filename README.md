@@ -3,17 +3,17 @@
 Added some text
 
 * one
-* two
+* 2
 * three
 * four
 * five
-* six
+* 6
 * seven
-* eight
+* 8
 * nine
 * ten
 * eleven
-* twlelve
+* 12
 * thirteen
 * 14
 * fifteen
