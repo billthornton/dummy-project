@@ -11,7 +11,7 @@ Added some text
 * seven
 * eight
 * nine
-* ten
+* 10
 * eleven
 * twlelve
 * thirteen
