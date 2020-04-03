@@ -17,7 +17,7 @@ Added some text
 * thirteen
 * fourteen
 * fifteen
-* sixteen
+* 16
 * seventeen
 * eighteen
 * nineteen
