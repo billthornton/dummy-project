@@ -3,21 +3,21 @@
 Added some text
 
 * one
-* two
+* 2
 * three
 * four
 * five
-* six
+* 6
 * seven
-* eight
+* 8
 * nine
 * ten
 * eleven
-* twlelve
+* 12
 * thirteen
-* fourteen
+* 14
 * fifteen
-* sixteen
+* 16
 * seventeen
 * 18
 * nineteen
